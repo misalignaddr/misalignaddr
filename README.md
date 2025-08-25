@@ -3,7 +3,7 @@
 + Modder
 + Reverse Engineer
 
-C++ & Lua Programmer
+(Mainly) C++ Programmer
 
 # Contact
 Email: misalignaddr@gmail.com
